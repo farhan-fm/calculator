@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="small_margin">6dp</dimen>
+    <dimen name="standard_margin">10dp</dimen>
+    <dimen name="large__margin">13dp</dimen>
+    <style name="Bold">5sp</style>
+</resources>
